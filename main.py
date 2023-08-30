@@ -1,7 +1,7 @@
 from random import randint
 
 from graphic_arts.start_game_banner import run_screensaver
-x
+
 
 def attack(char_name: str, char_class: str) -> str:
     """Attacks."""
